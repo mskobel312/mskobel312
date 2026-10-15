@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Passionate about software development, cloud technologies, and automation
-- 🚀 Currently working as a **DevOps Engineer**
+- 🚀 Currently working as a **DevOps Engineer** at **GRUPO LOGISCENTER**
 - 🛠️ Experienced in software development, CI/CD, and infrastructure automation
 - ☁️ Focused on building scalable, reliable, and efficient solutions
 - 🤝 Open to collaboration and challenging projects
